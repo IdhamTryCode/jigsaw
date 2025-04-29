@@ -1,0 +1,14 @@
+{
+  "name": "upas-playground",
+  "version": "1.0.0",
+  "description": "Game puzzle jigsaw sederhana untuk anak-anak",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve ."
+  },
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
